@@ -5,3 +5,27 @@
 #game-screen {
   border: 1px solid red;
 }
+
+#start-game-button{
+  color: #fff;
+  background-color: #007bff;
+  border: 1px solid #007bff;
+}
+
+#go-button{
+  color: #fff;
+  background-color: #28a745;
+  border: 1px solid #28a745;
+}
+
+#user-selection{
+  width: 100%;
+}
+
+.form-group{
+  margin-bottom: 1rem;
+}
+
+.form-control{
+  width: 100%;
+}
